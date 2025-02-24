@@ -3,7 +3,7 @@ Developed an interactive Power BI dashboard for FlipMart, analyzing sales, profi
 ## Introduction
 The Flipmart Sales Analysis Dashboard aims to provide comprehensive insights into sales trends, customer behavior, and market performance. This report will help Flipmart understand its customer base and develop strategies to enhance sales growth.
 
-##Project Objective
+## Project Objective
 The goal of this project is to:
 •	Analyze sales trends across regions, categories, and subcategories.
 •	Understand customer behavior by segment and product preference.
@@ -11,3 +11,4 @@ The goal of this project is to:
 •	Provide a clear and interactive visualization for stakeholders.
 
 ## Dataset Used
+- <a href="https://github.com/Shubham-5144/FlipMart-Sales-and-Profit-Analysis-Dashboard/blob/main/FlipMart_sales_dataset.xlsx">Flipmart Dataset</a>
